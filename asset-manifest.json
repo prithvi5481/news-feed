@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/prithvi5481/news-feed/static/css/main.2d195047.css",
+    "main.js": "/prithvi5481/news-feed/static/js/main.694bc63e.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/prithvi5481/news-feed/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/prithvi5481/news-feed/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/prithvi5481/news-feed/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/prithvi5481/news-feed/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/prithvi5481/news-feed/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/prithvi5481/news-feed/index.html",
+    "main.2d195047.css.map": "/prithvi5481/news-feed/static/css/main.2d195047.css.map",
+    "main.694bc63e.js.map": "/prithvi5481/news-feed/static/js/main.694bc63e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d195047.css",
+    "static/js/main.694bc63e.js"
+  ]
+}
